@@ -127,5 +127,9 @@
       },
     },
   };
+  /*
+  * kakao,goole,facebook 로그인 토큰세션 api 갖고 로그인하기
+  *
+  * */
   </script>
  
