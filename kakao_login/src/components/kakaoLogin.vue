@@ -129,7 +129,8 @@
   };
   /*
   * kakao,goole,facebook 로그인 토큰세션 api 갖고 로그인하기
-  *
+  * DDD
+  * 피그마 내일 하기
   * */
   </script>
  
